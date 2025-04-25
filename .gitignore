@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+train/
+valid/
+exps/
+output/
+input/
+configs/test.yaml

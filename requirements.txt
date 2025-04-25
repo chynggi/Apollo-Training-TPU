@@ -1,0 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+torch
+torchaudio
+pytorch-lightning
+hydra-core
+torch_optimizer
+torch_complex
+librosa
+numpy
+soundfile
+tqdm
+omegaconf
+rich
+huggingface_hub
+wandb
+torch_log_wmse
+auraloss
